@@ -1,0 +1,22 @@
+Circuit: * C:\Users\dutsch\Documents\GitHub\motor-control-hw-simulations\LimitSwitchOverrider-V0.2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Oct 27 14:27:45 2014
+Total elapsed time: 0.258 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 7884
+traniter = 7860
+tranpoints = 2417
+accept = 2040
+rejected = 377
+matrix size = 54
+fillins = 12
+solver = Normal
+Matrix Compiler1: 3.72 KB object code size  3.3/2.9/[1.9]
+Matrix Compiler2: off  [2.5]/2.9/2.8
+
+
